@@ -12,12 +12,12 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/HeahDude/whoops-pimple.git"
         }
     ],
     "require": {
-        "texthtml/whoops-pimple": "master",
+        "texthtml/whoops-pimple": "1.0.1",
         "silex/silex": "~2.0@dev"
     },
     "autoload": {
