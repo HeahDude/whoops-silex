@@ -10,6 +10,12 @@
             "homepage": "https://mathieu.rochette.cc"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/HeahDude/whoops-pimple.git"
+        }
+    ],
     "require": {
         "texthtml/whoops-pimple": "~1.0",
         "silex/silex": "~2.0@dev"
