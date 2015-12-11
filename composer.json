@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "texthtml/whoops-pimple": "~1.0",
+        "heahdude/whoops-pimple": "~1.0",
         "silex/silex": "~2.0@dev"
     },
     "autoload": {
