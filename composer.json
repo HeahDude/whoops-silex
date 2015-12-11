@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "texthtml/whoops-pimple": "~1.0",
+        "texthtml/whoops-pimple": "master",
         "silex/silex": "~2.0@dev"
     },
     "autoload": {
